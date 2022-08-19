@@ -9,8 +9,8 @@
 - 💞️ IT Lover <3 <br>
 - 🌱 I am currently student <br>
 - 💡  I like to explore new technologies . <br>
-- 🔭 I’m currently learning C++  <br>
-- ⚡ Fun fact : I am a food lover too  <br>
+- 🔭 I am currently learning C++  <br>
+- ⚡ I love eating , travelling , warching anime too  <br>
 - 📫 baazzasalaheddine@gmail.com <br>
 <br>
 <br>
