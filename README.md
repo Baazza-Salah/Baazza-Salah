@@ -15,6 +15,6 @@
 <a href="https://www.sql.sh/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOkjPVBKkl9gc2kEIHMuTDi-Mn7sjlKsATATzZR_t&s" alt="sql" width="29" height="34"/> </a>
 <a href=https://www.linux.org/ > <img width ='34px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> </a>
 <h2> Connect with me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 68px> </h2>
-<a href="###" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salah-eddine-ba%C3%A2zza-35314a246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
  <a href="###" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
- <a href="###" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/salahbz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
