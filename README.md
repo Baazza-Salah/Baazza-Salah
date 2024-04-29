@@ -5,11 +5,6 @@
 <h2>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
 
-
-- 💞️ IT Lover <3 <br>
-- 🌱 I am currently student <br>
-- 💡   I like to explore new technologies . <br>
-- ⚡ Fun fact : I love eating too  <br>
 - 📫 baazzasalaheddine@gmail.com <br>
 
 
