@@ -2,7 +2,7 @@
 
 <h2>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-- I am a cybersecurity engineering student and a CTF player. 
+- 🧑‍🎓 I am a cybersecurity engineering student and a CTF player. 
 - 📫 baazzasalaheddine@gmail.com <br>
 - 🔗 [baazza-salah.github.io](https://baazza-salah.github.io/)
 
